@@ -3,3 +3,4 @@
 /* eslint-disable */
 export * as chainlink from "./@chainlink";
 export * as contracts from "./contracts";
+export * as forgeStd from "./forge-std";

@@ -1,5 +1,25 @@
 ## CCIP Cross Chain Name Service
 
+> **Cloned Repository**
+
+> **Cloner Notes for Day 2 of CCIP Bootcamp Aug 2024**
+
+> Use the command:
+
+```shell
+forge test -vvvvv
+```
+> To test checking Chainlink local simulator test file ```test/demo.t.sol```. This repo installed a foundry plugin to the hardhat framework for testing. See the [Foundry site](https://book.getfoundry.sh/config/hardhat) for installation instructions if an npm install of the package.json is not sufficient.
+
+
+
+
+
+
+
+
+
+
 > **Note**
 >
 > _This repository represents an example of using a Chainlink product or service. It is provided to help you understand how to interact with Chainlink’s systems so that you can integrate them into your own. This template is provided "AS IS" without warranties of any kind, has not been audited, and may be missing key checks or error handling to make the usage of the product more clear. Take everything in this repository as an example and not something to be copy pasted into a production ready service._
